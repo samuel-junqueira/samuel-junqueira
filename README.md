@@ -58,19 +58,20 @@ Gostaria de discutir projetos, Design Systems, ou oportunidades? Entre em contat
 
 <div align="center">
   
-<a href="mailto:SEU_EMAIL_AQUI"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="SEU_LINKEDIN_AQUI" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="SEU_PORTFOLIO_AQUI" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-000000?style=for-the-badge&logo=appstore&logoColor=white" /></a>
+<a href="mailto:junqueira20111@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/samuel-junqueira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://samueljunqueira.com.br/" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-000000?style=for-the-badge&logo=appstore&logoColor=white" /></a>
 
 </div>
 
 ---
 
 <div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leopaivap/leopaivap/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leopaivap/leopaivap/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/leopaivap/leopaivap/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/**samuel-junqueira**/samuel-junqueira/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/**samuel-junqueira**/samuel-junqueira/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/**samuel-junqueira**/samuel-junqueira/output/pacman-contribution-graph.svg">
 </picture>
 
 </div>
