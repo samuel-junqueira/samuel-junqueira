@@ -33,20 +33,8 @@ Minhas principais tecnologias e ferramentas, alinhadas à minha atuação híbri
 
 ---
 
-### 📌 Projetos em Destaque
-
-Aqui estão alguns projetos que melhor demonstram minhas habilidades de design e implementação:
-
- - [**[Nome do Projeto 1 - Ex: Design System Demo]**](**[Link do Repositório/Portfólio]**) – Desenvolvimento de um Design System completo utilizando Storybook e TypeScript.
- - [**[Nome do Projeto 2 - Ex: Aplicação de UX]**](**[Link do Repositório/Portfólio]**) – Aplicação web focada em UX/Usabilidade, construída com React e testes de acessibilidade.
- - [**[Nome do Projeto 3 - Ex: Prototipagem Avançada]**](**[Link do Repositório/Portfólio]**) – Case Study com protótipo funcional e implementação da interface principal.
-
----
-
-<div align="center">
-
-<img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_AQUI&show_icons=true&count_private=true&hide_border=true&title_color=3A0C8A&icon_color=6E47CC&text_color=ffffff&bg_color=0d1117" />
-<img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME_AQUI&layout=compact&hide_border=true&title_color=3A0C8A&text_color=ffffff&bg_color=0d1117" />
+<img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=**samuel-junqueira**&show_icons=true&count_private=true&hide_border=true&title_color=3A0C8A&icon_color=6E47CC&text_color=ffffff&bg_color=0d1117" />
+<img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=**samuel-junqueira**&layout=compact&hide_border=true&title_color=3A0C8A&text_color=ffffff&bg_color=0d1117" />
 
 </div>
 
